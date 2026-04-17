@@ -1,10 +1,10 @@
 class Mcpx < Formula
   desc "Fast MCP config manager for self-hosted Model Context Protocol servers"
   homepage "https://github.com/nunoquispe/mcpx"
-  url "https://raw.githubusercontent.com/nunoquispe/mcpx/v0.2.0/mcpx"
-  sha256 "1f0ebf476a76eefd7b7daba552da243233556f617b2d1f78818070a3f3308e2a"
+  url "https://raw.githubusercontent.com/nunoquispe/mcpx/v0.3.0/mcpx"
+  sha256 "b39ac776c6fa5ded7cb7addc492c769d9e7fb84e691d41e1795e48ad68bb19c2"
   license "MIT"
-  version "0.2.0"
+  version "0.3.0"
 
   depends_on "jq"
 
